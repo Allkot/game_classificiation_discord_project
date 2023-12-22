@@ -66,4 +66,4 @@ async def Guess_game(ctx):
         await ctx.send("no image found")
 
     
-bot.run("MTExNDE1NjY5NzQzOTcxMTIzMg.GMNH3k.9_PHOM6OJ7Up36BkAYG95iDrAUlL6DsXfS4xuw")
+bot.run("write your token here")
